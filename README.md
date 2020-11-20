@@ -29,5 +29,5 @@ The file “Graphical_Anlaysis.py” contains a menu-driven program, when prompt
 <p align="center">**Probability of Infection Heat Map**</p>
 
 #### Algorithms Used:
-DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
-OPTICS (Ordering Points to Identify Clustering Structure)
+<p>DBSCAN (Density-Based Spatial Clustering of Applications with Noise)</p>
+<p>OPTICS (Ordering Points to Identify Clustering Structure)</p>
